@@ -1,0 +1,7 @@
+http://localhost:8080/produto
+
+porta do servidor
+java -jar -Dserver.port=8081 server.jar
+
+executar o servidor
+java -jar server.jar
